@@ -1,0 +1,3 @@
+﻿question,option1,option2,option3,option4,answer,minExp,maxExp,jobProfile1,jobProfile2,jobProfile3,skillSet,typeQuestion
+what is testing,testingOption1,testingOption2,testingOption3,testingOption4,answerOption3,1,2,SDET,QA,Fresher,Aptitude,Objective
+whatis java,testingOption1,testingOption2,testingOption3,testingOption4,answerOption3,0,1,SDET,SE,Fresher,Java,Objective
